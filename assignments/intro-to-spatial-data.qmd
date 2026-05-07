@@ -16,7 +16,7 @@ library(ggspatial)
 library(dplyr)
 ```
 
-# Exploring data
+#Exploring data
 ```{r}
 ak_rgns_sf <- read_sf(here("data", "shapefile_demo_data", "ak_regions_simp.shp"))
 
