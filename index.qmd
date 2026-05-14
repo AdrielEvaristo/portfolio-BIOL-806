@@ -13,4 +13,4 @@ This is my portfolio for learning **R, data analysis, GitHub, and Quarto**.
 
 [intro-to-quarto](assignments/a01_quarto_literate_analysis.html)
 
-[intro-to-spatial-data](https://sfsudatasci.github.io/import-template-AdrielEvaristo/assignments/intro-to-spatial-data.html)
+[intro-to-spatial-data](assignments/intro-to-spatial-data.html)
