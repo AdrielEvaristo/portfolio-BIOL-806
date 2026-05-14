@@ -11,6 +11,8 @@ This is my portfolio for learning **R, data analysis, GitHub, and Quarto**.
 
 ## Assignments
 
+Here are my assignments!
+
 [intro-to-quarto](assignments/a01_quarto_literate_analysis.html)
 
 [intro-to-spatial-data](assignments/intro-to-spatial-data.html)
