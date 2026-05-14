@@ -1,5 +1,6 @@
 ---
 title: "Portfolio"
+author: AdrielEvaristo
 listing:
   contents: assignments
   sort: "date asc"
@@ -11,7 +12,7 @@ This is my portfolio for learning **R, data analysis, GitHub, and Quarto**.
 
 ## Assignments
 
-Here are my assignments!
+Here are my assignments
 
 [intro-to-quarto](assignments/a01_quarto_literate_analysis.html)
 
