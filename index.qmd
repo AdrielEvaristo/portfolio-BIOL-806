@@ -1,6 +1,7 @@
 ---
 title: "Portfolio"
 author: AdrielEvaristo
+date: May 15, 2026
 listing:
   contents: assignments
   sort: "date asc"
@@ -9,6 +10,11 @@ listing:
 
 Welcome!  
 This is my portfolio for learning **R, data analysis, GitHub, and Quarto**.
+
+## Course Lessons
+- Introduction to Literate Analysis Using Quarto 
+- Intro to Spatial Data
+- Data Visualization
 
 ## Assignments
 
